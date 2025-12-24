@@ -1,0 +1,5 @@
+INFO start
+DEBUG hidden 1
+INFO keep
+DEBUG hidden 2
+END
